@@ -1,5 +1,5 @@
 # HackerTool
-HackerTool is a powerful program writed in Batch and PowerShell for things like
+HackerTool is a powerful program writed in Batch and PowerShell with Easy GUI for things like
 - Geolocation
 - Ping
 - Proxy Check
