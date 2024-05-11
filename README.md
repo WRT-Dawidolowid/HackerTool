@@ -1,0 +1,8 @@
+# HackerTool
+HackerTool is a powerful program writed in Batch and Powershell for things like
+- Geolocation
+- Ping
+- Proxy Check
+- PaySafeCard Generator
+- Random Number
+- String Search
