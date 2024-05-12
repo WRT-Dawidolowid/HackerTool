@@ -6,3 +6,5 @@ HackerTool is a powerful program writed in Batch and PowerShell with Easy GUI fo
 - PaySafeCard Generator
 - Random Number
 - String Search
+- Domain Check
+- API Connection
