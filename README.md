@@ -1,4 +1,5 @@
 # HackerTool
+## Note: HackerTool is now Open-Source
 HackerTool is a powerful program writed in Batch and PowerShell with Easy GUI for things like
 - Geolocation
 - Ping
