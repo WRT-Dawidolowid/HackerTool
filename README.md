@@ -7,7 +7,7 @@
 - PaySafeCard Generator
 - Random Number
 - String Search
-- Domain Check
+- Domain Converter
 - API Connection
 ## Upcomming features:
 - Discord Webhook Spammer
