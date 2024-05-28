@@ -1,6 +1,5 @@
 # HackerTool
-## Note: HackerTool from 2.0 to 2.32 will be permanently locked and discontinued on 6/28/2024.
-## HackerTool programming language will be changed from Batch to PowerShell
+## Note: HackerTool writed in Batch will have permanent Maintenance and it will be discontinued on 6/28/2024. Instead HackerTool programming language will be changed from Batch to PowerShell.
 HackerTool is a powerful program writed in Batch and PowerShell with Easy GUI for things like
 - Geolocation
 - Ping
