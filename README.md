@@ -9,6 +9,6 @@ HackerTool is a powerful program writed in Batch and PowerShell with Easy GUI fo
 - String Search
 - Domain Check
 - API Connection
-## Up comming features:
+## Upcomming features:
 - Discord Webhook Spammer
 - Discord Account Nuker
