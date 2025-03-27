@@ -1,4 +1,6 @@
 # HackerTool Multi-Tool
+> [!CAUTION]
+> This tool is discontinued! I recommend using Lightbulb!
 # Note: HackerTool writed in Batch will have permanent Maintenance and it will be discontinued on 7/28/2024. Instead HackerTool programming language will be changed from Batch to PowerShell. To stay up to date join my [Discord Server](https://discord.gg/mfuzjVbPKv)
 ## HackerTool is a powerful program writed in Batch and PowerShell with Easy GUI for things like
 - Geolocation
@@ -9,6 +11,3 @@
 - String Search
 - Domain Converter
 - API Connection
-## Upcomming features:
-- Discord Webhook Spammer
-- Discord Account Nuker
