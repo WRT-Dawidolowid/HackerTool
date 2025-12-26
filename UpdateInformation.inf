@@ -3,6 +3,6 @@
   "versionname": "HackerTool 2.4",
   "downloadlink": "d",
   "required": "yes",
-  "maintenance": "yes",
-  "mreason": "testing you mama"
+  "maintenance": "no",
+  "mreason": "no"
 }
