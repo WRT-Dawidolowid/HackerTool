@@ -2,7 +2,7 @@
 A program for doing random things.
 
 ![Downloads](https://img.shields.io/github/downloads/WRT-Dawidolowid/HackerTool/total?style=flat-square)
-> [!WARNING]
+> [!IMPORTANT]
 > This tool is will be continued! Expect an update before the end of the year.
 <details>
   <summary>Supported OS list</summary>
