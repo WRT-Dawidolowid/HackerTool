@@ -2,8 +2,6 @@
 A program for doing random things.
 
 ![Downloads](https://img.shields.io/github/downloads/WRT-Dawidolowid/HackerTool/total?style=flat-square)
-> [!IMPORTANT]
-> This tool will be continued! Expect a stable release before the end of the year.
 <details>
   <summary>Supported OS list</summary>
 
@@ -27,3 +25,4 @@ With HackerTool you can do these things:
 |String Search|
 |Domain Converter|
 |API Connection|
+|Discord Webhook Spammer|
